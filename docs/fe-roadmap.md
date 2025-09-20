@@ -26,6 +26,15 @@ title: 📕 前端学习计划
     - <font style="background:#F6E1AC;color:#664900">可选</font>[HTML5 新特性教程](https://edu.aliyun.com/course/313254/)
 + <font style="background:#DBF1B7;color:#2A4200">推荐</font>阶段 2：JavaScript
     - <font style="background:#DBF1B7;color:#2A4200">推荐</font>🌟 [JavaScript入门与实战](https://edu.aliyun.com/course/314202/)
+        * <font style="background:#DBF1B7;color:#2A4200">推荐</font>🌟 补充学习 typescript
+            + 理由：2020 年后各大公司的大部分 js 项目全面迁移为了 ts 项目
+            + 心得：ts 可以简单理解为是 js 的超集（js + 类型 = ts），写法上有些变化需要注意
+            + 可学习课程：
+                - [TypeScript 入门教程](https://ts.xcatliu.com/)
+                - [TypeScript 教程](https://wangdoc.com/typescript/)
+            + 简版学习：
+                - [TypeScript 实用基础](https://www.yuque.com/hanzebang/frontend/typescript-base)
+                - [TypeScript 高级特性](https://www.yuque.com/hanzebang/frontend/typescript-advanced)
     - <font style="background:#F8CED3;color:#70000D">不推荐</font>~~jQuery开发教程~~
     - <font style="background:#F8CED3;color:#70000D">不推荐</font>~~Ajax 前端开发入门与实战~~
 + <font style="background:#DBF1B7;color:#2A4200">推荐</font>阶段 3：开发工具
@@ -141,18 +150,18 @@ $ xcode-select --install
 
 <h2 id="g1y4q">其他资料</h2>
 
-- NodeJS 官网：[https://nodejs.org/zh-cn](https://nodejs.org/zh-cn)
++ NodeJS 官网：[https://nodejs.org/zh-cn](https://nodejs.org/zh-cn)
     - 官方学习资料：[https://nodejs.org/zh-cn/learn](https://nodejs.org/zh-cn/learn)
     - 官网文档（查看不同版本的 API 细节等）：[https://nodejs.org/docs/latest/api/](https://nodejs.org/docs/latest/api/)
-- npm 官网：[https://www.npmjs.com/](https://www.npmjs.com/)
++ npm 官网：[https://www.npmjs.com/](https://www.npmjs.com/)
     - 同其他语言一样，npmjs 是所有 npm 包的仓库，这里的所有包都可以通过`npm i xxx`装到自己的项目中并使用。
-- GitHub 官网：[https://github.com/](https://github.com/)
++ GitHub 官网：[https://github.com/](https://github.com/)
     - GitHub是一个在线软件源代码托管服务平台，用于公开程序或软件的代码。上面有很多优秀的项目代码源码可以学习，自己的项目代码也可以上传上去。
-- React 官网：[https://react.dev/](https://react.dev/)
++ React 官网：[https://react.dev/](https://react.dev/)
     - 中文官网：[https://zh-hans.react.dev/](https://zh-hans.react.dev/)
     - 三大主流应用框架（React、Vue、AngularJS）之一，开发前端应用需要掌握至少其中之一，蚂蚁体系常用。
-- Ant Design（antd）官网：[https://ant.design/index-cn](https://ant.design/index-cn)
++ Ant Design（antd）官网：[https://ant.design/index-cn](https://ant.design/index-cn)
     - 一套企业级 UI 设计语言和 React 组件库，蚂蚁体系常用 UI 组件库。
-- Umi 官网：[https://umijs.org/](https://umijs.org/)
++ Umi 官网：[https://umijs.org/](https://umijs.org/)
     - 插件化的企业级前端应用框架，蚂蚁体系多部门使用。
 
