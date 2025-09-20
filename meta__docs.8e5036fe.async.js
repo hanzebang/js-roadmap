@@ -1,0 +1,53 @@
+"use strict";(self.webpackChunkjs_roadmap=self.webpackChunkjs_roadmap||[]).push([[904],{59461:function(d,n,a){a.r(n),a.d(n,{demos:function(){return t}});var e=a(75271),t={}},47291:function(d,n,a){a.r(n),a.d(n,{demos:function(){return t}});var e=a(75271),t={}},74061:function(d,n,a){a.r(n),a.d(n,{demos:function(){return t}});var e=a(75271),t={}},69307:function(d,n,a){a.r(n),a.d(n,{texts:function(){return e}});const e=[{value:"\u7CFB\u7EDF\u6027\u8BE6\u7EC6\u5B66\u4E60\u53EF\u53C2\u8003",paraId:0,tocIndex:0},{value:"\u300A\u963F\u91CC\u4E91-\u524D\u7AEF\u5F00\u53D1\u5B66\u4E60\u8DEF\u7EBF\u300B",paraId:0,tocIndex:0},{value:"\u3002",paraId:0,tocIndex:0},{value:"\u5176\u4E2D\u63A8\u8350\u5B66\u4E60\u8BFE\u7A0B\u6807\u8BB0\uFF1A",paraId:1,tocIndex:0},{value:"\u63A8\u8350",paraId:2,tocIndex:0},{value:"- \u63A8\u8350\u5B66\u4E60\uFF0C\u901A\u5E38\u662F\u5B9E\u8DF5\u9700\u8981\u7684\u6280\u80FD",paraId:2,tocIndex:0},{value:"\u53EF\u9009",paraId:3,tocIndex:0},{value:"- \u6709\u4E00\u5B9A\u4E86\u89E3\u5373\u53EF\uFF0C\u53EF\u4EE5\u540E\u671F\u8865\u5145\u5B66\u4E60",paraId:3,tocIndex:0},{value:"\u4E0D\u63A8\u8350",paraId:4,tocIndex:0},{value:"- \u7528\u5904\u4E0D\u5927\u6216\u77E5\u8BC6\u8FC7\u65E7\uFF0C\u524D\u671F\u4E0D\u63A8\u8350\u5B66\u4E60",paraId:4,tocIndex:0},{value:"\u63A8\u8350\u5B66\u4E60\u5927\u7EB2\uFF1A",paraId:5,tocIndex:0},{value:"\u53EF\u9009",paraId:6,tocIndex:0},{value:`\u9636\u6BB5 1\uFF1AHTML+CSS
+`,paraId:6,tocIndex:0},{value:"\u53EF\u9009",paraId:7,tocIndex:0},{value:"HTML \u5165\u95E8\u4E0E\u5B9E\u6218",paraId:7,tocIndex:0},{value:"\u53EF\u9009",paraId:7,tocIndex:0},{value:"CSS \u5FEB\u901F\u638C\u63E1",paraId:7,tocIndex:0},{value:"\u53EF\u9009",paraId:7,tocIndex:0},{value:"HTML5 \u65B0\u7279\u6027\u6559\u7A0B",paraId:7,tocIndex:0},{value:"\u63A8\u8350",paraId:6,tocIndex:0},{value:`\u9636\u6BB5 2\uFF1AJavaScript
+`,paraId:6,tocIndex:0},{value:"\u63A8\u8350",paraId:8,tocIndex:0},{value:"\u{1F31F} ",paraId:8,tocIndex:0},{value:"JavaScript\u5165\u95E8\u4E0E\u5B9E\u6218",paraId:8,tocIndex:0},{value:"\u4E0D\u63A8\u8350",paraId:8,tocIndex:0},{value:"jQuery\u5F00\u53D1\u6559\u7A0B",paraId:8,tocIndex:0},{value:"\u4E0D\u63A8\u8350",paraId:8,tocIndex:0},{value:"Ajax \u524D\u7AEF\u5F00\u53D1\u5165\u95E8\u4E0E\u5B9E\u6218",paraId:8,tocIndex:0},{value:"\u63A8\u8350",paraId:6,tocIndex:0},{value:`\u9636\u6BB5 3\uFF1A\u5F00\u53D1\u5DE5\u5177
+`,paraId:6,tocIndex:0},{value:"\u4E0D\u63A8\u8350",paraId:9,tocIndex:0},{value:"SVN\u7248\u672C\u63A7\u5236\u7CFB\u7EDF",paraId:9,tocIndex:0},{value:"\u63A8\u8350",paraId:9,tocIndex:0},{value:"Git \u5FEB\u901F\u4E0A\u624B",paraId:9,tocIndex:0},{value:"\u53EF\u9009",paraId:9,tocIndex:0},{value:"\u524D\u7AEF\u81EA\u52A8\u5316\u6784\u5EFA\u5DE5\u5177 Webpack",paraId:9,tocIndex:0},{value:"\u63A8\u8350",paraId:6,tocIndex:0},{value:`\u9636\u6BB5 4\uFF1A\u524D\u7AEF\u6846\u67B6
+`,paraId:6,tocIndex:0},{value:"\u53EF\u9009",paraId:10,tocIndex:0},{value:"Vue.js \u5165\u95E8\u4E0E\u5B9E\u6218",paraId:10,tocIndex:0},{value:"\u63A8\u8350",paraId:10,tocIndex:0},{value:"React \u5165\u95E8\u4E0E\u5B9E\u6218",paraId:10,tocIndex:0},{value:"\u53EF\u9009",paraId:10,tocIndex:0},{value:"AngularJS \u5FEB\u901F\u5165\u95E8",paraId:10,tocIndex:0},{value:"\u4E0D\u63A8\u8350",paraId:10,tocIndex:0},{value:"Bootstrap \u5FEB\u901F\u5165\u95E8",paraId:10,tocIndex:0},{value:"\u63A8\u8350",paraId:6,tocIndex:0},{value:`\u9636\u6BB5 5\uFF1A\u79FB\u52A8\u53CA\u670D\u52A1\u7AEF\u5F00\u53D1
+`,paraId:6,tocIndex:0},{value:"\u53EF\u9009",paraId:11,tocIndex:0},{value:"\u79FB\u52A8Web\u524D\u7AEF\u5F00\u53D1",paraId:11,tocIndex:0},{value:"\u63A8\u8350",paraId:11,tocIndex:0},{value:"Node.js \u5165\u95E8\u4E0E\u5B9E\u6218",paraId:11,tocIndex:0},{value:"\u5176\u4ED6\u5B66\u4E60\u8D44\u6599\uFF1A",paraId:12,tocIndex:0},{value:"https://roadmap.sh/",paraId:12,tocIndex:0},{value:"\u63A8\u8350\u4F7F\u7528 ",paraId:13,tocIndex:3},{value:"nvm",paraId:13,tocIndex:3},{value:" \u5DE5\u5177\u7BA1\u7406 node \u7248\u672C\u3002",paraId:13,tocIndex:3},{value:"\u5B89\u88C5 nvm",paraId:14,tocIndex:3},{value:`# curl \u5B89\u88C5
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+
+# \u6216 wget \u5B89\u88C5
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
+`,paraId:15,tocIndex:3},{value:"\u5B89\u88C5\u6210\u529F\u68C0\u67E5",paraId:16,tocIndex:3},{value:`$ nvm -v
+0.40.3
+`,paraId:17,tocIndex:3},{value:"\u57FA\u7840\u4F7F\u7528\u793A\u4F8B",paraId:18,tocIndex:3},{value:`# \u5B89\u88C5\u65B0\u7684 node \u7248\u672C
+$ nvm install v22
+Downloading and installing node v22.19.0...
+Downloading https://nodejs.org/dist/v22.19.0/node-v22.19.0-darwin-arm64.tar.xz...
+############################################################################################################################### 100.0%
+Computing checksum with sha256sum
+Checksums matched!
+Now using node v22.19.0 (npm v10.9.3)
+
+# \u5207\u6362\u5DF2\u5B89\u88C5\u7684\u5176\u4ED6\u7248\u672C
+$ nvm use v20
+Now using node v20.19.0 (npm v10.8.2)
+$ node -v
+v20.19.0
+`,paraId:19,tocIndex:3},{value:"nvm \u5E38\u7528\u547D\u4EE4",paraId:20,tocIndex:3},{value:`nvm list \u67E5\u770B\u5DF2\u7ECF\u5B89\u88C5\u7684\u7248\u672C
+nvm list installed \u67E5\u770B\u5DF2\u7ECF\u5B89\u88C5\u7684\u7248\u672C
+nvm list available \u67E5\u770B\u7F51\u7EDC\u53EF\u4EE5\u5B89\u88C5\u7684\u7248\u672C
+nvm version \u67E5\u770B\u5F53\u524D\u7684\u7248\u672C
+nvm install \u5B89\u88C5\u6700\u65B0\u7248\u672C
+nvm use <version> ## \u5207\u6362\u4F7F\u7528\u6307\u5B9A\u7684\u7248\u672C
+nvm ls \u5217\u51FA\u6240\u6709\u7248\u672C nvm current\u663E\u793A\u5F53\u524D\u7248\u672C
+nvm alias <name> <version> ## \u7ED9\u4E0D\u540C\u7684\u7248\u672C\u53F7\u6DFB\u52A0\u522B\u540D
+nvm unalias <name> ## \u5220\u9664\u5DF2\u5B9A\u4E49\u7684\u522B\u540D
+nvm reinstall-packages <version> ## \u5728\u5F53\u524D\u7248\u672Cnode\u73AF\u5883\u4E0B\uFF0C\u91CD\u65B0\u5168\u5C40\u5B89\u88C5\u6307\u5B9A\u7248\u672C\u53F7\u7684npm\u5305
+nvm on \u6253\u5F00nodejs\u63A7\u5236
+nvm off \u5173\u95EDnodejs\u63A7\u5236
+nvm proxy \u67E5\u770B\u8BBE\u7F6E\u4E0E\u4EE3\u7406
+nvm node_mirror [url] \u8BBE\u7F6E\u6216\u8005\u67E5\u770Bsetting.txt\u4E2D\u7684node_mirror\uFF0C\u5982\u679C\u4E0D\u8BBE\u7F6E\u7684\u9ED8\u8BA4\u662F Index of /dist/
+nvm npm_mirror [url] \u8BBE\u7F6E\u6216\u8005\u67E5\u770Bsetting.txt\u4E2D\u7684 npm_mirror,\u5982\u679C\u4E0D\u8BBE\u7F6E\u7684\u8BDD\u9ED8\u8BA4\u7684\u662F\uFF1A https://github.com/npm/npm/archive/
+nvm uninstall <version> \u5378\u8F7D\u5236\u5B9A\u7684\u7248\u672C
+nvm use [version] [arch] \u5207\u6362\u5236\u5B9A\u7684node\u7248\u672C\u548C\u4F4D\u6570
+nvm root [path] \u8BBE\u7F6E\u548C\u67E5\u770Broot\u8DEF\u5F84
+`,paraId:21,tocIndex:3},{value:"VSCode \u5B89\u88C5\uFF1A\u901A\u8FC7",paraId:22,tocIndex:4},{value:"\u5B98\u7F51",paraId:22,tocIndex:4},{value:"\u5B89\u88C5\u5373\u53EF",paraId:22,tocIndex:4},{value:"\u5176\u4ED6\u7EC8\u7AEF\u5DE5\u5177\uFF1A\u63A8\u8350 ",paraId:22,tocIndex:4},{value:"iterm2",paraId:22,tocIndex:4},{value:"\uFF0C\u901A\u8FC7\u5B98\u7F51\u5B89\u88C5\u5373\u53EF",paraId:22,tocIndex:4},{value:`
+MacOS \u672C\u8EAB\u7684 xcode-select \u81EA\u5E26 Git \u7BA1\u7406\u5DE5\u5177\u3002
+`,paraId:23},{value:`# \u68C0\u67E5 git \u662F\u5426\u53EF\u7528
+$ git -v
+git version 2.39.5 (Apple Git-154)
+
+# \u5982\u679C git \u4E0D\u53EF\u7528\uFF0C\u53EF\u4EE5\u901A\u8FC7\u547D\u4EE4\u4E3B\u52A8\u5B89\u88C5 xcode-select
+$ xcode-select --install
+`,paraId:24,tocIndex:5},{value:"\u4E03\u5929\u5B66\u4F1ANodeJS\uFF1A",paraId:25,tocIndex:6},{value:"https://nqdeng.github.io/7-days-nodejs",paraId:25,tocIndex:6},{value:"NodeJS \u5B98\u7F51\uFF1A",paraId:26,tocIndex:7},{value:"https://nodejs.org/zh-cn",paraId:26,tocIndex:7},{value:"\u5B98\u65B9\u5B66\u4E60\u8D44\u6599\uFF1A",paraId:27,tocIndex:7},{value:"https://nodejs.org/zh-cn/learn",paraId:27,tocIndex:7},{value:"\u5B98\u7F51\u6587\u6863\uFF08\u67E5\u770B\u4E0D\u540C\u7248\u672C\u7684 API \u7EC6\u8282\u7B49\uFF09\uFF1A",paraId:27,tocIndex:7},{value:"https://nodejs.org/docs/latest/api/",paraId:27,tocIndex:7},{value:"npm \u5B98\u7F51\uFF1A",paraId:26,tocIndex:7},{value:"https://www.npmjs.com/",paraId:26,tocIndex:7},{value:"\u540C\u5176\u4ED6\u8BED\u8A00\u4E00\u6837\uFF0Cnpmjs \u662F\u6240\u6709 npm \u5305\u7684\u4ED3\u5E93\uFF0C\u8FD9\u91CC\u7684\u6240\u6709\u5305\u90FD\u53EF\u4EE5\u901A\u8FC7",paraId:28,tocIndex:7},{value:"npm i xxx",paraId:28,tocIndex:7},{value:"\u88C5\u5230\u81EA\u5DF1\u7684\u9879\u76EE\u4E2D\u5E76\u4F7F\u7528\u3002",paraId:28,tocIndex:7},{value:"GitHub \u5B98\u7F51\uFF1A",paraId:26,tocIndex:7},{value:"https://github.com/",paraId:26,tocIndex:7},{value:"GitHub\u662F\u4E00\u4E2A\u5728\u7EBF\u8F6F\u4EF6\u6E90\u4EE3\u7801\u6258\u7BA1\u670D\u52A1\u5E73\u53F0\uFF0C\u7528\u4E8E\u516C\u5F00\u7A0B\u5E8F\u6216\u8F6F\u4EF6\u7684\u4EE3\u7801\u3002\u4E0A\u9762\u6709\u5F88\u591A\u4F18\u79C0\u7684\u9879\u76EE\u4EE3\u7801\u6E90\u7801\u53EF\u4EE5\u5B66\u4E60\uFF0C\u81EA\u5DF1\u7684\u9879\u76EE\u4EE3\u7801\u4E5F\u53EF\u4EE5\u4E0A\u4F20\u4E0A\u53BB\u3002",paraId:29,tocIndex:7},{value:"React \u5B98\u7F51\uFF1A",paraId:26,tocIndex:7},{value:"https://react.dev/",paraId:26,tocIndex:7},{value:"\u4E2D\u6587\u5B98\u7F51\uFF1A",paraId:30,tocIndex:7},{value:"https://zh-hans.react.dev/",paraId:30,tocIndex:7},{value:"\u4E09\u5927\u4E3B\u6D41\u5E94\u7528\u6846\u67B6\uFF08React\u3001Vue\u3001AngularJS\uFF09\u4E4B\u4E00\uFF0C\u5F00\u53D1\u524D\u7AEF\u5E94\u7528\u9700\u8981\u638C\u63E1\u81F3\u5C11\u5176\u4E2D\u4E4B\u4E00\uFF0C\u8682\u8681\u4F53\u7CFB\u5E38\u7528\u3002",paraId:30,tocIndex:7},{value:"Ant Design\uFF08antd\uFF09\u5B98\u7F51\uFF1A",paraId:26,tocIndex:7},{value:"https://ant.design/index-cn",paraId:26,tocIndex:7},{value:"\u4E00\u5957\u4F01\u4E1A\u7EA7 UI \u8BBE\u8BA1\u8BED\u8A00\u548C React \u7EC4\u4EF6\u5E93\uFF0C\u8682\u8681\u4F53\u7CFB\u5E38\u7528 UI \u7EC4\u4EF6\u5E93\u3002",paraId:31,tocIndex:7},{value:"Umi \u5B98\u7F51\uFF1A",paraId:26,tocIndex:7},{value:"https://umijs.org/",paraId:26,tocIndex:7},{value:"\u63D2\u4EF6\u5316\u7684\u4F01\u4E1A\u7EA7\u524D\u7AEF\u5E94\u7528\u6846\u67B6\uFF0C\u8682\u8681\u4F53\u7CFB\u591A\u90E8\u95E8\u4F7F\u7528\u3002",paraId:32,tocIndex:7}]},88605:function(d,n,a){a.r(n),a.d(n,{texts:function(){return e}});const e=[{value:"This is a guide example.",paraId:0}]},5126:function(d,n,a){a.r(n),a.d(n,{texts:function(){return e}});const e=[{value:"js-roadmap",paraId:0}]}}]);
