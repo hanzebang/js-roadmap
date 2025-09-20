@@ -6,6 +6,7 @@
     "start": "npm run dev",
     "dev": "dumi dev",
     "build": "dumi build",
+    "release": "dumi build && cp -r dist gh-pages",
     "preview": "dumi preview",
     "prepare": "husky install && dumi setup"
   },
