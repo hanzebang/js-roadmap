@@ -5,5 +5,7 @@ export default defineConfig({
     name: 'js-roadmap',
   },
 
+  // github pages 部署的根目录
   publicPath: '/js-roadmap/',
+  base: '/js-roadmap/',
 });
