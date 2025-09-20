@@ -159,7 +159,7 @@ $ xcode-select --install
     - GitHub是一个在线软件源代码托管服务平台，用于公开程序或软件的代码。上面有很多优秀的项目代码源码可以学习，自己的项目代码也可以上传上去。
 + React 官网：[https://react.dev/](https://react.dev/)
     - 中文官网：[https://zh-hans.react.dev/](https://zh-hans.react.dev/)
-    - 三大主流应用框架（React、Vue、AngularJS）之一，开发前端应用需要掌握至少其中之一，蚂蚁体系常用。
+    - 三大主流应用框架（React、Vue、AngularJS）之一，开发前端应用需要掌握至少其中之一，蚂蚁体系常用 React。
 + Ant Design（antd）官网：[https://ant.design/index-cn](https://ant.design/index-cn)
     - 一套企业级 UI 设计语言和 React 组件库，蚂蚁体系常用 UI 组件库。
 + Umi 官网：[https://umijs.org/](https://umijs.org/)
